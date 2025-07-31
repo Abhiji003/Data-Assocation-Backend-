@@ -1,0 +1,24 @@
+{
+  "name": "youtubebackend",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Abhiji003/CRUD-operations.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Abhiji003/CRUD-operations/issues"
+  },
+  "homepage": "https://github.com/Abhiji003/CRUD-operations#readme",
+  "description": "",
+  "dependencies": {
+    "express": "^5.1.0",
+    "mongoose": "^8.17.0"
+  }
+}
